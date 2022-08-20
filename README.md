@@ -28,7 +28,9 @@ To analyze the recorded voices, 4 parameters were used to determine the the obta
 - signal variance
 - signal standard deviation
 
-https://github.com/gzych98/VoiceRecognition/blob/main/img01.png
+Comparison of the calculated standard deviation and mean value for the samples
+
+![alt text](https://github.com/gzych98/VoiceRecognition/blob/main/img01.png?raw=true)
 
 ## Feed-forward neural network
 
