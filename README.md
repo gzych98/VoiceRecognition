@@ -36,6 +36,8 @@ Comparison of the calculated standard deviation and mean value for the samples
 
 A feed-forward neural network is a type of neural network in which the connections of units do not move in a loop, but rather in a single directed path. This differs from a recurrent neural network, in which information can move forward and backward throughout the system. A feedback neural network is probably the most common type of neural network because it is one of the easiest to understand and configure. These types of neural networks are used in data mining and other areas of research where predictive behavior is required.
 
+![alt text](https://github.com/gzych98/VoiceRecognition/blob/main/img02.png?raw=true)
+
 
 
 
