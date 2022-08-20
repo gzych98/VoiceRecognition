@@ -15,6 +15,23 @@ Neural network.
 - Learning the neural network.
 - Testing of the network and verification of recognition performance.
 
+## Acquisition of audio samples
+
+The voice samples were downloaded using Audacity software and exported to .wav extension files using "Signed 24-bit PCM." Recorded were mono sounds at 44100 Hz.
+
+## Analysis of input signals 
+
+To analyze the recorded voices, 4 parameters were used to determine the the obtained signal:
+
+- average frequency
+- harmonic ratio
+- signal variance
+- signal standard deviation
+
+## Feed-forward neural network
+
+A feed-forward neural network is a type of neural network in which the connections of units do not move in a loop, but rather in a single directed path. This differs from a recurrent neural network, in which information can move forward and backward throughout the system. A feedback neural network is probably the most common type of neural network because it is one of the easiest to understand and configure. These types of neural networks are used in data mining and other areas of research where predictive behavior is required.
+
 
 
 
